@@ -6,3 +6,4 @@
  <label for="content">Content:</label>
  <input type="text" id="content" name="content">
  <input type="submit" value="submit">
+ </form>
